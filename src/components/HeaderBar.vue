@@ -5,7 +5,9 @@
       <router-link to="/">Home</router-link>
       <router-link to="/courses">Courses</router-link>
       <router-link to="/about">About</router-link>
+      <!-- Theme Toggle Button 
       <button @click="$emit('toggle-theme')">🌓 Toggle Theme</button>
+      -->
     </nav>
   </header>
 </template>
